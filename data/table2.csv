@@ -1,0 +1,13 @@
+,ALL n (%),COC+ n (%),COC- n (%),Missing,p_value
+Social Grade Level Increase (3 months),24 (14.2%),14 (11.3%),10 (22.2%),21 (12.4%),0.2563
+Nursing Services Increase (3 months),16 (9.5%),14 (11.3%),2 (4.4%),21 (12.4%),0.6519
+Barthel Index Decline (3 months),51 (30.2%),29 (23.4%),22 (48.9%),23 (13.6%),0.0494
+CHARMI Decline (3 months),42 (24.9%),26 (21.0%),16 (35.6%),37 (21.9%),0.0326
+NMS Decline (3 months),63 (37.3%),41 (33.1%),22 (48.9%),22 (13.0%),0.3829
+Readmission (3 months),23 (13.6%),12 (9.7%),11 (24.4%),0 (0.0%),0.0027
+Institutionalization (3 months),3 (1.8%),3 (2.4%),0 (0.0%),20 (11.8%),0.999
+Social Grade Level Increase (15 months),29 (17.2%),19 (15.3%),10 (22.2%),63 (37.3%),0.1549
+Barthel Index Decline (15 months),49 (29.0%),34 (27.4%),15 (33.3%),59 (34.9%),0.2904
+CHARMI Decline (15 months),21 (12.4%),15 (12.1%),6 (13.3%),73 (43.2%),0.7499
+NMS Decline (15 months),40 (23.7%),27 (21.8%),13 (28.9%),59 (34.9%),0.3045
+Institutionalization (15 months),2 (1.2%),2 (1.6%),0 (0.0%),58 (34.3%),
