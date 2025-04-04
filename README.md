@@ -45,7 +45,7 @@ Note: You can also explore the Jupyter Notebook in GitHub. However, you cannot r
 This project is licensed under the MIT License.
 
 ## Citation
-For academic use, please cite the underlying manuscript (details forthcoming, insert once published):
+For academic use, please cite the underlying manuscript (details forthcoming, provided once published):
 
 [pending]
 
