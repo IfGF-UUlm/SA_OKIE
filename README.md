@@ -6,8 +6,8 @@ This GitHub repository contains the analysis and supporting materials for the pr
 This study, part of the SURGE-Ahead project, investigates discrepancies between standard of care discharge decisions and expert geriatrician recommendations for surgical inpatients aged 70+. It identifies key factors influencing discharge appropriateness and associated outcomes.
 
 ### Key Findings
-- 27% Discrepancy Rate: Between standard care and expert recommendations for discharge destinations.
-- Outcomes: Non-appropriate discharges linked to increased frailty, dependence in ADLs, reduced mobility, higher readmission rates at 3-month follow-up, and decline in functional status (Barthel Index and Charité Mobility Index scores).
+- 27% Incongruence between standard of care and expert recommendations for discharge destinations.
+- Incongruent discharge decisions linked to increased frailty, dependence in ADLs, reduced mobility, higher readmission rates at 3-month follow-up, and decline in functional status (Barthel Index and Charité Mobility Index scores).
 
 ## Repository Structure
 - [`data`](./data): Source data for the analysis
