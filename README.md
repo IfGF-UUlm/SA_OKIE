@@ -3,7 +3,7 @@ This GitHub repository contains the analysis and supporting materials for the pr
 
 ## Project Overview
 ### Background
-This study, part of the SURGE-Ahead project, investigates discrepancies between standard of care discharge decisions and expert geriatrician recommendations for surgical inpatients aged 70+. It identifies key factors influencing discharge appropriateness and associated outcomes.
+This study, part of the SURGE-Ahead project, investigates discrepancies between standard of care discharge decisions and expert geriatrician recommendations for surgical inpatients aged 70+. It identifies key factors influencing discharge decisions and associated outcomes.
 
 ### Key Findings
 - 27% Incongruence between standard of care and expert recommendations for discharge destinations.
