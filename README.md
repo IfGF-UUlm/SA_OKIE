@@ -45,9 +45,10 @@ Note: You can also explore the Jupyter Notebook in GitHub. However, you cannot r
 This project is licensed under the MIT License.
 
 ## Citation
-For academic use, please cite the underlying manuscript (details forthcoming, provided once published):
+For academic use, please cite the underlying manuscript:
 
-[pending]
+> Leinert, C., Brefka, S., Fotteler, M.L. et al. Standard-of-care vs expert-recommended discharge destinations for geriatric surgical inpatients: a prospective observational cohort study. *Eur Geriatr Med* (2025). [https://doi.org/10.1007/s41999-025-01382-x](https://doi.org/10.1007/s41999-025-01382-x)
+
 
 ## Contact
 Questions, Feedback, or Concerns? Reach out to thomas.kocar@uni-ulm.de.
